@@ -8,6 +8,7 @@ The AP Courses:
 
 <h1><strong>Art and Design (formerly Studio Art): 2-D Design</strong></h1>
 <h2>Vital Course Resources:</h2>
+<ol>Unit I Notes</ol>
 <p></p>
 
 <h1><strong>Art and Design (formerly Studio Art): 3-D Design</strong></h1>
@@ -20,6 +21,16 @@ The AP Courses:
 
 <h1><strong>Art History</strong></h1>
 <h2>Vital Course Resources:</h2>
+<ol>Unit 1: Global Prehistory, 30,000–500 BCE</ol>
+<ol>Unit 2: Ancient Mediterranean, 3500 BCE–300 CE</ol>
+<ol>Unit 3: Early Europe and Colonial Americas, 200–1750 CE</ol>
+<ol>Unit 4: Later Europe and Americas, 1750–1980 CE</ol>
+<ol>Unit 5: Indigenous Americas, 1000 BCE–1980 CE</ol>
+<ol>Unit 6: Africa, 1100–1980 CE</ol>
+<ol>Unit 7: West and Central Asia, 500 BCE–1980 CE</ol>
+<ol>Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE</ol>
+<ol>Unit 9: The Pacific, 700-1980 CE</ol>
+<ol>Unit 10: Global Contemporary, 1980 CE to Present</ol>
 <p></p>
 
 <h1><strong>Biology</strong></h1>
