@@ -1,10 +1,10 @@
 <!DOCTYPE> HTML
 <p>
-AP-Support:
-Providing support towards all AP students in all AP classes.
+<h1><p><span style="text-decoration: underline;">AP Class Support</span></p></h1>
+<h2>Providing support towards all AP students in all AP classes.</h2>
 </p>
 
-The AP Courses:
+<h1>The AP Courses:</h1>
 
 <h1><strong>Art and Design: 2-D Design, 3-D Design, and Drawing</strong></h1>
 <ol>The AP Art and Design Program includes three different courses: AP 2-D Art and Design, AP 3-D Art and Design, and AP Drawing. In each course, you’ll investigate materials, processes, and ideas. You’ll make works of art and design by practicing, experimenting, and revising, and you will communicate your ideas about art and design through written and visual expression.</ol>
