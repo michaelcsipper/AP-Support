@@ -390,7 +390,7 @@
 <h1><strong>World History: Modern<strong></h1>
 <ol>Unit 1: The Global Tapestry</ol>
 <ol>Unit 2: Networks of Exchange</ol>
-<ol>Unit 3: Land-Based Empires
+<ol>Unit 3: Land-Based Empires</ol>
 <ol>Unit 4: Transoceanic Interconnections</ol>
 <ol>Unit 5: Revolutions</ol>
 <ol>Unit 6: Consequences of Industrialization</ol>
@@ -398,7 +398,6 @@
 <ol>Unit 8: Cold War and Decolonization</ol>
 <ol>Unit 9: Globalization</ol>
 <h3>Exam Review</h3>
-  
 <p></p>
   
   
