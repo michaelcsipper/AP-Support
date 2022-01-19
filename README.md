@@ -6,21 +6,11 @@ Providing support towards all AP students in all AP classes.
 
 The AP Courses:
 
-<h1><strong>Art and Design (formerly Studio Art): 2-D Design</strong></h1>
-<h2>Vital Course Resources:</h2>
-<ol>Unit I Notes</ol>
-<p></p>
-
-<h1><strong>Art and Design (formerly Studio Art): 3-D Design</strong></h1>
-<h2>Vital Course Resources:</h2>
-<p></p>
-
-<h1><strong>Art and Design (formerly Studio Art): Drawing</strong></h1>
-<h2>Vital Course Resources:</h2>
+<h1><strong>Art and Design: 2-D Design, 3-D Design, and Drawing</strong></h1>
+<ol>The AP Art and Design Program includes three different courses: AP 2-D Art and Design, AP 3-D Art and Design, and AP Drawing. In each course, you’ll investigate materials, processes, and ideas. You’ll make works of art and design by practicing, experimenting, and revising, and you will communicate your ideas about art and design through written and visual expression.</ol>
 <p></p>
 
 <h1><strong>Art History</strong></h1>
-<h2>Vital Course Resources:</h2>
 <ol>Unit 1: Global Prehistory, 30,000–500 BCE</ol>
 <ol>Unit 2: Ancient Mediterranean, 3500 BCE–300 CE</ol>
 <ol>Unit 3: Early Europe and Colonial Americas, 200–1750 CE</ol>
@@ -34,139 +24,105 @@ The AP Courses:
 <p></p>
 
 <h1><strong>Biology</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Calculus AB</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Calculus BC</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Chemistry</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Chinese Language and Culture</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Computer Science A</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Computer Science Principles</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>English Language and Composition</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>English Literature and Composition</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Environmental Science</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>European History</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>French Language and Culture</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>German Language and Culture</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Government and Politics (Comparative)</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Government and Politics (US)</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Human Geography</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Italian Language and Culture</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Japanese Language and Culture</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Latin</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Macroeconomics</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Microeconomics</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Music Theory</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Physics 1: Algebra-Based</strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Physics 2: Algebra-Based<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Physics C: Electricity and Magnetism<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Physics C: Mechanics<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Psychology<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Research<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Seminar<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Spanish Language and Culture<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Spanish Literature and Culture<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>Statistics<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
   
 <h1><strong>US History<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
 
 <h1><strong>World History: Modern<strong></h1>
-<h2>Vital Course Resources:</h2>
 <p></p>
   
   
