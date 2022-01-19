@@ -1,121 +1,126 @@
+DOCTYPE! HTML
+<p>
 # AP-Support
 Providing support towards all AP students in all AP classes.
+</p>
 
 The AP Courses:
 
-Art and Design (formerly Studio Art): 2-D Design
+<strong>Art and Design (formerly Studio Art): 2-D Design</strong>
 <p></p>
 
-Art and Design (formerly Studio Art): 3-D Design
+<strong>Art and Design (formerly Studio Art): 3-D Design</strong>
 <p></p>
 
-Art and Design (formerly Studio Art): Drawing
+<strong>Art and Design (formerly Studio Art): Drawing</strong>
 <p></p>
 
-Art History
+<strong>Art History</strong>
 <p></p>
 
-Biology
+<strong>Biology</strong>
 <p></p>
 
-Calculus AB
+<strong>Calculus AB</strong>
 <p></p>
 
-Calculus BC
+<strong>Calculus BC</strong>
 <p></p>
 
-Chemistry
+<strong>Chemistry</strong>
 <p></p>
 
-Chinese Language and Culture
+<strong>Chinese Language and Culture</strong>
 <p></p>
 
-Computer Science A
+<strong>Computer Science A</strong>
 <p></p>
 
-Computer Science Principles
+<strong>Computer Science Principles</strong>
 <p></p>
 
-English Language and Composition
+<strong>English Language and Composition</strong>
 <p></p>
 
-English Literature and Composition
+<strong>English Literature and Composition</strong>
 <p></p>
 
-Environmental Science
+<strong>Environmental Science</strong>
 <p></p>
 
-European History
+<strong>European History</strong>
 <p></p>
 
-French Language and Culture
+<strong>French Language and Culture</strong>
 <p></p>
 
-German Language and Culture
+<strong>German Language and Culture</strong>
 <p></p>
 
-Government and Politics (Comparative)
+<strong>Government and Politics (Comparative)</strong>
 <p></p>
 
-Government and Politics (US)
+<strong>Government and Politics (US)</strong>
 <p></p>
 
-Human Geography
+<strong>Human Geography</strong>
 <p></p>
 
-Italian Language and Culture
+<strong>Italian Language and Culture</strong>
 <p></p>
 
-Japanese Language and Culture
+<strong>Japanese Language and Culture</strong>
 <p></p>
 
-Latin
+<strong>Latin</strong>
 <p></p>
 
-Macroeconomics
+<strong>Macroeconomics</strong>
 <p></p>
 
-Microeconomics
+<strong>Microeconomics</strong>
 <p></p>
 
-Music Theory
+<strong>Music Theory</strong>
 <p></p>
 
-Physics 1: Algebra-Based
+<strong>Physics 1: Algebra-Based</strong>
 <p></p>
 
-Physics 2: Algebra-Based
+<strong>Physics 2: Algebra-Based<strong>
 <p></p>
 
-Physics C: Electricity and Magnetism
+<strong>Physics C: Electricity and Magnetism<strong>
 <p></p>
 
-Physics C: Mechanics
+<strong>Physics C: Mechanics<strong>
 <p></p>
 
-Psychology
+<strong>Psychology<strong>
 <p></p>
 
-Research 
+<strong>Research<strong> 
 <p></p>
 
-Seminar
+<strong>Seminar<strong>
 <p></p>
 
-Spanish Language and Culture
+<strong>Spanish Language and Culture<strong>
 <p></p>
 
-Spanish Literature and Culture
+<strong>Spanish Literature and Culture<strong>
 <p></p>
 
-Statistics
+<strong>Statistics<strong>
 <p></p>
 
-US History
+<strong>US History<strong>
 <p></p>
 
-World History: Modern
+<strong>World History: Modern<strong>
 <p></p>
+  
+  
 <p>
 <select>
   
