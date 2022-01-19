@@ -8,6 +8,7 @@
 
 <h1><strong>Art and Design: 2-D Design, 3-D Design, and Drawing</strong></h1>
 <ol>The AP Art and Design Program includes three different courses: AP 2-D Art and Design, AP 3-D Art and Design, and AP Drawing. In each course, you’ll investigate materials, processes, and ideas. You’ll make works of art and design by practicing, experimenting, and revising, and you will communicate your ideas about art and design through written and visual expression.</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Art History</strong></h1>
@@ -21,6 +22,7 @@
 <ol>Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE</ol>
 <ol>Unit 9: The Pacific, 700-1980 CE</ol>
 <ol>Unit 10: Global Contemporary, 1980 CE to Present</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Biology</strong></h1>
@@ -32,6 +34,7 @@
 <ol>Unit 6: Gene Expression and Regulation</ol>
 <ol>Unit 7: Natural Selection</ol>
 <ol>Unit 8: Ecology</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Calculus AB</strong></h1>
@@ -43,6 +46,7 @@
 <ol>Unit 6: Integration and Accumulation of Change</ol>
 <ol>Unit 7: Differential Equations</ol>
 <ol>Unit 8: Applications of Integration</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Calculus BC</strong></h1>
@@ -56,6 +60,7 @@
 <ol>Unit 8: Applications of Integration</ol>
 <ol>Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions</ol>
 <ol>Unit 10: Infinite Sequences and Series</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Chemistry</strong></h1>
@@ -68,6 +73,7 @@
 <ol>Unit 7: Equilibrium</ol>
 <ol>Unit 8: Acids and Bases</ol>
 <ol>Unit 9: Applications of Thermodynamics</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Chinese Language and Culture</strong></h1>
@@ -77,6 +83,7 @@
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Computer Science A</strong></h1>
@@ -90,6 +97,7 @@
 <ol>Unit 8: 2D Array</ol>
 <ol>Unit 9: Inheritance</ol>
 <ol>Unit 10: Recursion</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Computer Science Principles</strong></h1>
@@ -98,10 +106,12 @@
 <ol>Big Idea 3: Algorithms and Programming</ol>
 <ol>Big Idea 4: Computer Systems and Networks</ol>
 <ol>Big Idea 5: Impact of Computing</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>English Language and Composition</strong></h1>
 <ol>The course content is organized into nine units of study that provide one possible sequence for the course. The units define the skills you’ll work on as the course progresses, but your teacher can choose the content and themes that you’ll focus on in each unit.</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>English Literature and Composition</strong></h1>
@@ -114,6 +124,7 @@
 <ol>Unit 7: Short Fiction III</ol>
 <ol>Unit 8: Poetry III</ol>
 <ol>Unit 9: Longer Fiction or Drama III</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Environmental Science</strong></h1>
@@ -126,6 +137,7 @@
 <ol>Unit 7: Atmospheric Pollution</ol>
 <ol>Unit 8: Aquatic and Terrestrial Pollution</ol>
 <ol>Unit 9: Global Change</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>European History</strong></h1>
@@ -138,6 +150,7 @@
 <ol>Unit 7: 19th-Century Perspectives and Political Developments</ol>
 <ol>Unit 8: 20th-Century Global Conflicts</ol>
 <ol>Unit 9: Cold War and Contemporary Europe</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>French Language and Culture</strong></h1>
@@ -147,6 +160,7 @@
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>German Language and Culture</strong></h1>
@@ -156,6 +170,7 @@
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Government and Politics (Comparative)</strong></h1>
@@ -164,6 +179,7 @@
 <ol>Unit 3: Political Culture and Participation</ol>
 <ol>Unit 4: Party and Electoral Systems and Citizen Organizations</ol>
 <ol>Unit 5: Political and Economic Changes and Development</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Government and Politics (US)</strong></h1>
@@ -172,6 +188,7 @@
 <ol>Unit 3: Civil Liberties and Civil Rights</ol>
 <ol>Unit 4: American Political Ideologies and Beliefs</ol>
 <ol>Unit 5: Political Participation</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Human Geography</strong></h1>
@@ -182,6 +199,7 @@
 <ol>Unit 5: Agriculture and Rural Land-Use Patterns and Processes</ol>
 <ol>Unit 6: Cities and Urban Land-Use Patterns and Processes</ol>
 <ol>Unit 7: Industrial and Economic Development Patterns and Processes</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Italian Language and Culture</strong></h1>
@@ -191,6 +209,7 @@
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Japanese Language and Culture</strong></h1>
@@ -200,6 +219,7 @@
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Latin</strong></h1>
@@ -211,6 +231,7 @@
 <ol>Unit 6: Caesar, Gallic War, Book 5, Part I</ol>
 <ol>Unit 7: Caesar, Gallic War, Book 5, Part II, Book 6, and Book 7</ol>
 <ol>Unit 8: Vergil, Aeneid, Books 6, 8, and 12</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Macroeconomics</strong></h1>
@@ -220,6 +241,7 @@
 <ol>Unit 4: Financial Sector</ol>
 <ol>Unit 5: Long-Run Consequences of Stabilization Policies</ol>
 <ol>Unit 6: Open Economy—International Trade and Finance</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Microeconomics</strong></h1>
@@ -229,6 +251,7 @@
 <ol>Unit 4: Imperfect Competition</ol>
 <ol>Unit 5: Factor Markets</ol>
 <ol>Unit 6: Market Failure and the Role of Government</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Music Theory</strong></h1>
@@ -240,6 +263,7 @@
 <ol>Unit 6: Harmony and Voice Leading III: Embellishments, Motives, and Melodic Devices</ol>
 <ol>Unit 7: Harmony and Voice Leading IV: Secondary Function</ol>
 <ol>Unit 8: Modes and Form</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics 1: Algebra-Based</strong></h1>
@@ -250,6 +274,7 @@
 <ol>Unit 5: Momentum</ol>
 <ol>Unit 6: Simple Harmonic Motion</ol>
 <ol>Unit 7: Torque and Rotational Motion</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics 2: Algebra-Based<strong></h1>
@@ -260,6 +285,7 @@
 <ol>Unit 5: Magnetism and Electromagnetic Induction</ol>
 <ol>Unit 6: Geometric and Physical Optics</ol>
 <ol>Unit 7: Quantum, Atomic, and Nuclear Physics</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics C: Electricity and Magnetism<strong></h1>
@@ -268,6 +294,7 @@
 <ol>Unit 3: Electric Circuits</ol>
 <ol>Unit 4: Magnetic Fields</ol>
 <ol>Unit 5: Electromagnetism</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics C: Mechanics<strong></h1>
@@ -278,6 +305,7 @@
 <ol>Unit 5: Rotation</ol>
 <ol>Unit 6: Oscillations</ol>
 <ol>Unit 7: Gravitation</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Psychology<strong></h1>
@@ -290,6 +318,7 @@
 <ol>Unit 7: Motivation, Emotion, and Personality</ol>
 <ol>Unit 8: Clinical Psychology</ol>
 <ol>Unit 9: Social Psychology</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Research<strong></h1>
@@ -298,6 +327,7 @@
 <ol>Big Idea 3: Evaluate Multiple Perspectives</ol>
 <ol>Big Idea 4: Synthesize Ideas</ol>
 <ol>Big Idea 5: Team, Transform, and Transmit</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Seminar<strong></h1>
@@ -306,6 +336,7 @@
 <ol>Big Idea 3: Evaluate Multiple Perspectives</ol>
 <ol>Big Idea 4: Synthesize Ideas</ol>
 <ol>Big Idea 5: Team, Transform, and Transmit</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Spanish Language and Culture<strong></h1>
@@ -315,6 +346,7 @@
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Spanish Literature and Culture<strong></h1>
@@ -326,6 +358,7 @@
 <ol>Unit 6: Teatro y poesía del siglo XX</ol>
 <ol>Unit 7: El Boom latinoamericano</ol>
 <ol>Unit 8: Escritores contemporáneos de Estados Unidos y España</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Statistics<strong></h1>
@@ -338,6 +371,7 @@
 <ol>Unit 7: Inference for Quantitative Data: Means</ol>
 <ol>Unit 8: Inference for Categorical Data: Chi-Square</ol>
 <ol>Unit 9: Inference for Quantitative Data: Slopes</ol>
+<h3>Exam Review</h3>
 <p></p>
   
 <h1><strong>US History<strong></h1>
@@ -350,6 +384,7 @@
 <ol>Unit 7: Period 7: 1890–1945</ol>
 <ol>Unit 8: Period 8: 1945–1980</ol>
 <ol>Unit 9: Period 9: 1980–Present</ol>
+<h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>World History: Modern<strong></h1>
@@ -362,6 +397,7 @@
 <ol>Unit 7: Global Conflict</ol>
 <ol>Unit 8: Cold War and Decolonization</ol>
 <ol>Unit 9: Globalization</ol>
+<h3>Exam Review</h3>
 <p></p>
   
   
