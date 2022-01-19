@@ -6,118 +6,118 @@ Providing support towards all AP students in all AP classes.
 
 The AP Courses:
 
-<strong>Art and Design (formerly Studio Art): 2-D Design</strong>
+<h1><strong>Art and Design (formerly Studio Art): 2-D Design</strong></h1>
 <p></p>
 
-<strong>Art and Design (formerly Studio Art): 3-D Design</strong>
+<h1><strong>Art and Design (formerly Studio Art): 3-D Design</strong></h1>
 <p></p>
 
-<strong>Art and Design (formerly Studio Art): Drawing</strong>
+<h1><strong>Art and Design (formerly Studio Art): Drawing</strong></h1>
 <p></p>
 
-<strong>Art History</strong>
+<h1><strong>Art History</strong></h1>
 <p></p>
 
-<strong>Biology</strong>
+<h1><strong>Biology</strong></h1>
 <p></p>
 
-<strong>Calculus AB</strong>
+<h1><strong>Calculus AB</strong></h1>
 <p></p>
 
-<strong>Calculus BC</strong>
+<h1><strong>Calculus BC</strong></h1>
 <p></p>
 
-<strong>Chemistry</strong>
+<h1><strong>Chemistry</strong></h1>
 <p></p>
 
-<strong>Chinese Language and Culture</strong>
+<h1><strong>Chinese Language and Culture</strong></h1>
 <p></p>
 
-<strong>Computer Science A</strong>
+<h1><strong>Computer Science A</strong></h1>
 <p></p>
 
-<strong>Computer Science Principles</strong>
+<h1><strong>Computer Science Principles</strong></h1>
 <p></p>
 
-<strong>English Language and Composition</strong>
+<h1><strong>English Language and Composition</strong></h1>
 <p></p>
 
-<strong>English Literature and Composition</strong>
+<h1><strong>English Literature and Composition</strong></h1>
 <p></p>
 
-<strong>Environmental Science</strong>
+<h1><strong>Environmental Science</strong></h1>
 <p></p>
 
-<strong>European History</strong>
+<h1><strong>European History</strong></h1>
 <p></p>
 
-<strong>French Language and Culture</strong>
+<h1><strong>French Language and Culture</strong></h1>
 <p></p>
 
-<strong>German Language and Culture</strong>
+<h1><strong>German Language and Culture</strong></h1>
 <p></p>
 
-<strong>Government and Politics (Comparative)</strong>
+<h1><strong>Government and Politics (Comparative)</strong></h1>
 <p></p>
 
-<strong>Government and Politics (US)</strong>
+<h1><strong>Government and Politics (US)</strong></h1>
 <p></p>
 
-<strong>Human Geography</strong>
+<h1><strong>Human Geography</strong></h1>
 <p></p>
 
-<strong>Italian Language and Culture</strong>
+<h1><strong>Italian Language and Culture</strong></h1>
 <p></p>
 
-<strong>Japanese Language and Culture</strong>
+<h1><strong>Japanese Language and Culture</strong></h1>
 <p></p>
 
-<strong>Latin</strong>
+<h1><strong>Latin</strong></h1>
 <p></p>
 
-<strong>Macroeconomics</strong>
+<h1><strong>Macroeconomics</strong></h1>
 <p></p>
 
-<strong>Microeconomics</strong>
+<h1><strong>Microeconomics</strong></h1>
 <p></p>
 
-<strong>Music Theory</strong>
+<h1><strong>Music Theory</strong></h1>
 <p></p>
 
-<strong>Physics 1: Algebra-Based</strong>
+<h1><strong>Physics 1: Algebra-Based</strong></h1>
 <p></p>
 
-<strong>Physics 2: Algebra-Based<strong>
+<h1><strong>Physics 2: Algebra-Based<strong></h1>
 <p></p>
 
-<strong>Physics C: Electricity and Magnetism<strong>
+<h1><strong>Physics C: Electricity and Magnetism<strong></h1>
 <p></p>
 
-<strong>Physics C: Mechanics<strong>
+<h1><strong>Physics C: Mechanics<strong></h1>
 <p></p>
 
-<strong>Psychology<strong>
+<h1><strong>Psychology<strong></h1>
 <p></p>
 
-<strong>Research<strong> 
+<h1><strong>Research<strong></h1>
 <p></p>
 
-<strong>Seminar<strong>
+<h1><strong>Seminar<strong></h1>
 <p></p>
 
-<strong>Spanish Language and Culture<strong>
+<h1><strong>Spanish Language and Culture<strong></h1>
 <p></p>
 
-<strong>Spanish Literature and Culture<strong>
+<h1><strong>Spanish Literature and Culture<strong></h1>
 <p></p>
 
-<strong>Statistics<strong>
+<h1><strong>Statistics<strong></h1>
+<p></p>
+  
+<h1><strong>US History<strong></h1>
 <p></p>
 
-<strong>US History<strong>
-<p></p>
-
-<strong>World History: Modern<strong>
+<h1><strong>World History: Modern<strong></h1>
 <p></p>
   
   
