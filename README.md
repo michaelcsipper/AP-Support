@@ -344,156 +344,346 @@
 
 <h1><strong>French Language and Culture</strong></h1>
 <ol>Unit 1: Families in Different Societies</ol>
+<a href = "" >AP French Unit 1 Notes</a>
+
 <ol>Unit 2: The Influence of Language and Culture on Identity</ol>
+<a href = "" >AP French Unit 2 Notes</a>
+
 <ol>Unit 3: Influences of Beauty and Art</ol>
+<a href = "" >AP French Unit 3 Notes</a>
+
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
+<a href = "" >AP French Unit 4 Notes</a>
+
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
+<a href = "" >AP French Unit 5 Notes</a>
+
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<a href = "" >AP French Unit 6 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>German Language and Culture</strong></h1>
 <ol>Unit 1: Families in Different Societies</ol>
+<a href = "" >AP German Unit 1 Notes</a>
+
 <ol>Unit 2: The Influence of Language and Culture on Identity</ol>
+<a href = "" >AP German Unit 1 Notes</a>
+
 <ol>Unit 3: Influences of Beauty and Art</ol>
+<a href = "" >AP German Unit 1 Notes</a>
+
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
+<a href = "" >AP German Unit 1 Notes</a>
+
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
+<a href = "" >AP German Unit 1 Notes</a>
+
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<a href = "" >AP German Unit 1 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Government and Politics (Comparative)</strong></h1>
 <ol>Unit 1: Political Systems, Regimes, and Governments</ol>
+<a href = "" >AP Government and Politics (Comparative) Unit 1 Notes</a>
+
 <ol>Unit 2: Political Institutions</ol>
+<a href = "" >AP Government and Politics (Comparative) Unit 2 Notes</a>
+
 <ol>Unit 3: Political Culture and Participation</ol>
+<a href = "" >AP Government and Politics (Comparative) Unit 3 Notes</a>
+
 <ol>Unit 4: Party and Electoral Systems and Citizen Organizations</ol>
+<a href = "" >AP Government and Politics (Comparative) Unit 4 Notes</a>
+
 <ol>Unit 5: Political and Economic Changes and Development</ol>
+<a href = "" >AP Government and Politics (Comparative) Unit 5 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Government and Politics (US)</strong></h1>
 <ol>Unit 1: Foundations of American Democracy</ol>
+<a href = "" >AP Government and Politics (US) Unit 1 Notes</a>
+
 <ol>Unit 2: Interactions Among Branches of Government</ol>
+<a href = "" >AP Government and Politics (US) Unit 2 Notes</a>
+
 <ol>Unit 3: Civil Liberties and Civil Rights</ol>
+<a href = "" >AP Government and Politics (US) Unit 3 Notes</a>
+
 <ol>Unit 4: American Political Ideologies and Beliefs</ol>
+<a href = "" >AP Government and Politics (US) Unit 4 Notes</a>
+
 <ol>Unit 5: Political Participation</ol>
+<a href = "" >AP Government and Politics (US) Unit 5 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Human Geography</strong></h1>
 <ol>Unit 1: Thinking Geographically</ol>
+<a href = "" >AP Human Geography Unit 1 Notes</a>
+
 <ol>Unit 2: Population and Migration Patterns and Processes</ol>
+<a href = "" >AP Human Geography Unit 2 Notes</a>
+
 <ol>Unit 3: Cultural Patterns and Processes</ol>
+<a href = "" >AP Human Geography Unit 3 Notes</a>
+
 <ol>Unit 4: Political Patterns and Processes</ol>
+<a href = "" >AP Human Geography Unit 4 Notes</a>
+
 <ol>Unit 5: Agriculture and Rural Land-Use Patterns and Processes</ol>
+<a href = "" >AP Human Geography Unit 5 Notes</a>
+
 <ol>Unit 6: Cities and Urban Land-Use Patterns and Processes</ol>
+<a href = "" >AP Human Geography Unit 6 Notes</a>
+
 <ol>Unit 7: Industrial and Economic Development Patterns and Processes</ol>
+<a href = "" >AP Human Geography Unit 7 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Italian Language and Culture</strong></h1>
 <ol>Unit 1: Families in Different Societies</ol>
+<a href = "" >AP Italian Unit 1 Notes</a>
+
 <ol>Unit 2: The Influence of Language and Culture on Identity</ol>
+<a href = "" >AP Italian Unit 2 Notes</a>
+
 <ol>Unit 3: Influences of Beauty and Art</ol>
+<a href = "" >AP Italian Unit 3 Notes</a>
+
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
+<a href = "" >AP Italian Unit 4 Notes</a>
+
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
+<a href = "" >AP Italian Unit 5 Notes</a>
+
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<a href = "" >AP Italian Unit 6 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Japanese Language and Culture</strong></h1>
 <ol>Unit 1: Families in Different Societies</ol>
+<a href = "" >AP Japanese Unit 1 Notes</a>
+
 <ol>Unit 2: The Influence of Language and Culture on Identity</ol>
+<a href = "" >AP Japanese Unit 2 Notes</a>
+
 <ol>Unit 3: Influences of Beauty and Art</ol>
+<a href = "" >AP Japanese Unit 3 Notes</a>
+
 <ol>Unit 4: How Science and Technology Affect Our Lives</ol>
+<a href = "" >AP Japanese Unit 4 Notes</a>
+
 <ol>Unit 5: Factors That Impact the Quality of Life</ol>
+<a href = "" >AP Japanese Unit 5 Notes</a>
+
 <ol>Unit 6: Environmental, Political, and Societal Challenges</ol>
+<a href = "" >AP Japanese Unit 6 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Latin</strong></h1>
 <ol>Unit 1: Vergil, Aeneid, Book 1</ol>
+<a href = "" >AP Latin Unit 1 Notes</a>
+
 <ol>Unit 2: Caesar, Gallic War, Books 1 and 6</ol>
+<a href = "" >AP Latin Unit 2 Notes</a>
+
 <ol>Unit 3: Vergil, Aeneid, Book 2</ol>
+<a href = "" >AP Latin Unit 3 Notes</a>
+
 <ol>Unit 4 : Caesar, Gallic War, Book 4</ol>
+<a href = "" >AP Latin Unit 4 Notes</a>
+
 <ol>Unit 5: Vergil, Aeneid, Book 4</ol>
+<a href = "" >AP Latin Unit 5 Notes</a>
+
 <ol>Unit 6: Caesar, Gallic War, Book 5, Part I</ol>
+<a href = "" >AP Latin Unit 6 Notes</a>
+
 <ol>Unit 7: Caesar, Gallic War, Book 5, Part II, Book 6, and Book 7</ol>
+<a href = "" >AP Latin Unit 7 Notes</a>
+
 <ol>Unit 8: Vergil, Aeneid, Books 6, 8, and 12</ol>
+<a href = "" >AP Latin Unit 8 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Macroeconomics</strong></h1>
 <ol>Unit 1: Basic Economic Concepts</ol>
+<a href = "" >AP Macroeconomics Unit 1 Notes</a>
+
 <ol>Unit 2: Economic Indicators and the Business Cycle</ol>
+<a href = "" >AP Macroeconomics Unit 2 Notes</a>
+
 <ol>Unit 3: National Income and Price Determination</ol>
+<a href = "" >AP Macroeconomics Unit 3 Notes</a>
+
 <ol>Unit 4: Financial Sector</ol>
+<a href = "" >AP Macroeconomics Unit 4 Notes</a>
+
 <ol>Unit 5: Long-Run Consequences of Stabilization Policies</ol>
+<a href = "" >AP Macroeconomics Unit 5 Notes</a>
+
 <ol>Unit 6: Open Economy—International Trade and Finance</ol>
+<a href = "" >AP Macroeconomics Unit 6 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Microeconomics</strong></h1>
 <ol>Unit 1: Basic Economic Concepts</ol>
+<a href = "" >AP Microeconomics Unit 1 Notes</a>
+
 <ol>Unit 2: Supply and Demand</ol>
+<a href = "" >AP Microeconomics Unit 2 Notes</a>
+
 <ol>Unit 3: Production, Cost, and the Perfect Competition Model</ol>
+<a href = "" >AP Microeconomics Unit 3 Notes</a>
+
 <ol>Unit 4: Imperfect Competition</ol>
+<a href = "" >AP Microeconomics Unit 4 Notes</a>
+
 <ol>Unit 5: Factor Markets</ol>
+<a href = "" >AP Microeconomics Unit 5 Notes</a>
+
 <ol>Unit 6: Market Failure and the Role of Government</ol>
+<a href = "" >AP Microeconomics Unit 6 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Music Theory</strong></h1>
 <ol>Unit 1: Music Fundamentals I: Pitch, Major Scales and Key Signatures, Rhythm, Meter, and Expressive Elements</ol>
+<a href = "" >AP Music Theory Unit 1 Notes</a>
+
 <ol>Unit 2: Music Fundamentals II: Minor Scales and Key Signatures, Melody, Timbre, and Texture</ol>
+<a href = "" >AP Music Theory Unit 2 Notes</a>
+
 <ol>Unit 3: Music Fundamentals III: Triads and Seventh Chords</ol>
+<a href = "" >AP Music Theory Unit 3 Notes</a>
+
 <ol>Unit 4: Harmony and Voice Leading I: Chord Function, Cadence, and Phrase</ol>
+<a href = "" >AP Music Theory Unit 4 Notes</a>
+
 <ol>Unit 5: Harmony and Voice Leading II: Chord Progressions and Predominant Function</ol>
+<a href = "" >AP Music Theory Unit 5 Notes</a>
+
 <ol>Unit 6: Harmony and Voice Leading III: Embellishments, Motives, and Melodic Devices</ol>
+<a href = "" >AP Music Theory Unit 6 Notes</a>
+
 <ol>Unit 7: Harmony and Voice Leading IV: Secondary Function</ol>
+<a href = "" >AP Music Theory Unit 7 Notes</a>
+
 <ol>Unit 8: Modes and Form</ol>
+<a href = "" >AP Music Theory Unit 8 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics 1: Algebra-Based</strong></h1>
 <ol>Unit 1: Kinematics</ol>
+<a href = "" >Physics 1: Algebra-Based Unit 1 Notes</a>
+
 <ol>Unit 2: Dynamics</ol>
+<a href = "" >Physics 1: Algebra-Based Unit 2 Notes</a>
+
 <ol>Unit 3: Circular Motion and Gravitation</ol>
+<a href = "" >Physics 1: Algebra-Based Unit 3 Notes</a>
+
 <ol>Unit 4: Energy</ol>
+<a href = "" >Physics 1: Algebra-Based Unit 4 Notes</a>
+
 <ol>Unit 5: Momentum</ol>
+<a href = "" >Physics 1: Algebra-Based Unit 5 Notes</a>
+
 <ol>Unit 6: Simple Harmonic Motion</ol>
+<a href = "" >Physics 1: Algebra-Based Unit 6 Notes</a>
+
 <ol>Unit 7: Torque and Rotational Motion</ol>
+<a href = "" >Physics 1: Algebra-Based Unit 7 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics 2: Algebra-Based<strong></h1>
 <ol>Unit 1: Fluids: Pressure and Forces</ol>
+<a href = "" >Physics 2: Algebra-Based Unit 1 Notes</a>
+
 <ol>Unit 2: Thermodynamics</ol>
+<a href = "" >Physics 2: Algebra-Based Unit 2 Notes</a>
+
 <ol>Unit 3: Electric Force, Field, and Potential</ol>
+<a href = "" >Physics 2: Algebra-Based Unit 3 Notes</a>
+
 <ol>Unit 4: Electric Circuits</ol>
+<a href = "" >Physics 2: Algebra-Based Unit 4 Notes</a>
+
 <ol>Unit 5: Magnetism and Electromagnetic Induction</ol>
+<a href = "" >Physics 2: Algebra-Based Unit 5 Notes</a>
+
 <ol>Unit 6: Geometric and Physical Optics</ol>
+<a href = "" >Physics 2: Algebra-Based Unit 6 Notes</a>
+
 <ol>Unit 7: Quantum, Atomic, and Nuclear Physics</ol>
+<a href = "" >Physics 2: Algebra-Based Unit 7 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics C: Electricity and Magnetism<strong></h1>
 <ol>Unit 1: Electrostatics</ol>
+<a href = "" >Physics C: Electricity and Magnetism Unit 1 Notes</a>
+
 <ol>Unit 2: Conductors, Capacitors, Dielectrics</ol>
+<a href = "" >Physics C: Electricity and Magnetism Unit 2 Notes</a>
+
 <ol>Unit 3: Electric Circuits</ol>
+<a href = "" >Physics C: Electricity and Magnetism Unit 3 Notes</a>
+
 <ol>Unit 4: Magnetic Fields</ol>
+<a href = "" >Physics C: Electricity and Magnetism Unit 4 Notes</a>
+
 <ol>Unit 5: Electromagnetism</ol>
+<a href = "" >Physics C: Electricity and Magnetism Unit 5 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
 <h1><strong>Physics C: Mechanics<strong></h1>
 <ol>Unit 1: Kinematics</ol>
+<a href = "" >Physics C: Mechanics Unit 1 Notes</a>
+
 <ol>Unit 2: Newton’s Laws of Motion</ol>
+<a href = "" >Physics C: Mechanics Unit 2 Notes</a>
+
 <ol>Unit 3: Work, Energy, and Power</ol>
+<a href = "" >Physics C: Mechanics Unit 3 Notes</a>
+
 <ol>Unit 4: Systems of Particles and Linear Momentum</ol>
+<a href = "" >Physics C: Mechanics Unit 4 Notes</a>
+
 <ol>Unit 5: Rotation</ol>
+<a href = "" >Physics C: Mechanics Unit 5 Notes</a>
+
 <ol>Unit 6: Oscillations</ol>
+<a href = "" >Physics C: Mechanics Unit 6 Notes</a>
+
 <ol>Unit 7: Gravitation</ol>
+<a href = "" >Physics C: Mechanics Unit 7 Notes</a>
+
 <h3>Exam Review</h3>
 <p></p>
 
