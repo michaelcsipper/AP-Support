@@ -408,19 +408,27 @@
 
 <h1><strong>Government and Politics (US)</strong></h1>
 <ol>Unit 1: Foundations of American Democracy</ol>
-<a href = "" >AP Government and Politics (US) Unit 1 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1i1GSixROyk2yXQg_HzjT0rNewQNqbKSU/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 1 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1wJAo5-fr6JPEdlSD5YhSC_N_RVqmw7pO/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 1 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1XMG7jotUbYZLGEPTZPPrqEQXZgt_o4mW/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 1 Notes</a>
 
 <ol>Unit 2: Interactions Among Branches of Government</ol>
-<a href = "" >AP Government and Politics (US) Unit 2 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1baWkBVExXTx6kdMHL_RikIZSLkigdEOz/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 2 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1Pog1gJkHjolPcyJ12hdAFA1unR94-kBa/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 2 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1BRJKaOa4JC9-CH8O7YxVuJOYmZcW9iBU/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 2 Notes</a>
 
 <ol>Unit 3: Civil Liberties and Civil Rights</ol>
-<a href = "" >AP Government and Politics (US) Unit 3 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1SUjU_K5aEkO7yioX8ikl6xSzMPidgh_m/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 3 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1cDGpOLWjbZlsQK8snoBDzmPNqI8exjZh/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 3 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1Nok4lgUYVTiVQTmXhDFR3Wut-CYb9kqZ/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 3 Notes</a>
 
 <ol>Unit 4: American Political Ideologies and Beliefs</ol>
-<a href = "" >AP Government and Politics (US) Unit 4 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1FYynhwnG_Ll8VkjJuHhB3L9UBmLjv-PP/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 4 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1OJIwmzRiVz4-Pen69pLkiYQj_g2DXDuS/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 4 Notes</a>
 
 <ol>Unit 5: Political Participation</ol>
-<a href = "" >AP Government and Politics (US) Unit 5 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1_D1RClP8eL-D_urZzf-J1Px8LOQAZ04N/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 5 Notes</a>
+<a href = "https://docs.google.com/presentation/d/1ORbE_A_pz-bo8whUOjllgd-C8RbWYj3u/edit?usp=sharing&ouid=100131160961731651541&rtpof=true&sd=true" >AP Government and Politics (US) Unit 5 Notes</a>
 
 <h3>Exam Review</h3>
 <p></p>
